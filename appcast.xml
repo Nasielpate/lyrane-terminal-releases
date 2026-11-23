@@ -3,6 +3,15 @@
   <channel>
     <title>Wolf Terminal</title>
     <item>
+      <title>Version 1.1 (Build 69)</title>
+      <pubDate>Mon, 23 Nov 2026 18:26:31 GMT</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Duo starten: großes Aufgabenfeld, „Datei laden …“ (oder Datei ins Feld ziehen) für lange Konzepte bis 20 MB, Fenster größer ziehbar; lange Aufgaben gehen als aufgabe.md an die Agenten; wolf duo --datei</li><li>Projekte: letztes Release mit Commits seitdem, offene TODO-Punkte, GitHub (offene PRs, Issues, CI-Status); Notizen/TODO-Fenster per Rechtsklick</li><li>System: Time Machine (letztes Backup, Warnfarbe ab 1 bzw. 3 Tagen) und Netz (WLAN/Ethernet, IP, VPN/Tailscale)</li><li>Rudel: Rechtsklick → „Von Codex prüfen lassen“ (bzw. Claude) – Bereich wird geteilt, der andere Agent reviewt die aktuellen Änderungen, Nacharbeit bis zur Freigabe</li><li>Eigener Klang je Agent (Claude „Glass“, Codex „Hero“, wählbar), wenn er fertig ist oder auf dich wartet</li><li>Seitenleiste Änderungen: geänderte Dateien im Projekt des aktiven Tabs mit +/− Zeilen, live; Klick zeigt den Unterschied farbig, verwerfen, alles committen</li><li>Seitenleiste Dienste: lauschende Server mit Port und Tab, Klick öffnet im Browser, beenden per Rechtsklick</li><li>Seitenleiste Verbrauch heute: Tokens von Claude und Codex (heute, je Projekt, 7 Tage) und Codex-Kontingent – aus den lokalen Sitzungsdateien, schrittweise eingelesen</li><li>Schutz: Zwei Wolf-Terminal-Programme mit demselben Datenordner können nicht mehr gleichzeitig laufen (würden sich die Sitzung überschreiben)</li></ul>]]></description>
+      <enclosure url="https://github.com/Nasielpate/wolf-terminal-releases/releases/download/v1.1-69/WolfTerminal-1.1-69.zip" sparkle:edSignature="wsEibMyx2a6CGF/OzCPXTZi1Gx37O3FYN0GL8CrL3hkgaJBZ5Xu2p2WftrHrI6WFhii6pN4igYydBt5ninaABA==" length="5202366" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1 (Build 63)</title>
       <pubDate>Mon, 23 Nov 2026 12:25:07 GMT</pubDate>
       <sparkle:version>63</sparkle:version>
