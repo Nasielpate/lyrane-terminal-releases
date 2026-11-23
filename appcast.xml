@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Wolf Terminal</title>
+    <item>
+      <title>Version 1.1 (Build 56)</title>
+      <pubDate>Mon, 23 Nov 2026 08:44:10 GMT</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Updates für alle, die Wolf Terminal aus der DMG installiert haben: einmal am Tag nach einer neuen Version sehen, mit Neuerungen anzeigen und installieren (Sparkle; doppelt geprüft – Apple-Notarisierung und eigener Signaturschlüssel). Auf dem eigenen Mac mit Quellordner bleibt „Update bereit“</li><li>Kein Ruckeln mehr alle 10 Sekunden: Die Sitzungssicherung durchsucht nur noch Tabs mit neuer Ausgabe nach Geheimnissen, und ein schneller Vorfilter spart die teure Mustersuche für fast alle Zeilen (Haupt-Thread ca. 30-mal weniger belastet, keine Lastspitzen mehr)</li><li>Grafikkarten-Zeichnen (Metal) geprüft und verworfen: kein messbarer Gewinn, würde Durchsichtigkeit abschalten</li></ul>]]></description>
+      <enclosure url="https://github.com/Nasielpate/wolf-terminal-releases/releases/download/v1.1-56/WolfTerminal-1.1-56.zip" sparkle:edSignature="yTN4vZ4j0D5f2o9sClDpPczeJJ/fEKsPzddd3fnv0d6ppKpB8BckS6E4riqgrEyi8DTpuxNlx5kewZ9Xajn5Aw==" length="4763212" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
