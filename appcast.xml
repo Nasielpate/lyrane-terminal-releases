@@ -3,6 +3,15 @@
   <channel>
     <title>Wolf Terminal</title>
     <item>
+      <title>Version 1.1 (Build 63)</title>
+      <pubDate>Mon, 23 Nov 2026 12:25:07 GMT</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Knopf „Duo“ rechts in der Tab-Leiste (orange und grüner Punkt) öffnet „Duo starten“</li><li>Namensschild für Agenten: oben rechts im Bereich „Claude“ (orange) bzw. „Codex“ (grün) mit Rolle im Duo und Zustand, farbige Linie oben, Rahmen in Agentenfarbe (abschaltbar)</li><li>Fenster „Duo starten“ war leer (auf die Titelleiste geschrumpft) – feste Größe, Knöpfe immer sichtbar</li><li>Statusleiste zeigt auch Codex (und Gemini, Aider) mit Version, z. B. „codex 0.171.0“ – aus dem Installationspfad oder einmalig per --version</li><li>Duo: Claude und Codex (ChatGPT) arbeiten in einem Tab zusammen (⌘⇧U) – Autor → Reviewer (Runden bis zur FREIGABE), Planer → Umsetzer, Zweitmeinung mit Fazit (wahlweise jeder in eigenem Git-Worktree); Übergabe über Auftrags-/Ergebnis-Dateien in .wolf/duo/, Protokoll im unteren Bereich, anhalten/fortsetzen/beenden</li><li>Befehl wolf in jedem Tab (Steuer-Schnittstelle wie bei Herdr): list, prompt … --wait, read, wait, send, name, duo – damit können Agenten einander Aufträge geben; lokale Verbindung nur für den eigenen Benutzer</li><li>Codex und Gemini im Rudel: Zustand (arbeitet / fertig / braucht dich) aus Fenstertitel und Bildschirm erkannt (Regeln nach Herdr) – Scanner-Auge, Häkchen, Fragezeichen und Mitteilungen auch für Codex</li></ul>]]></description>
+      <enclosure url="https://github.com/Nasielpate/wolf-terminal-releases/releases/download/v1.1-63/WolfTerminal-1.1-63.zip" sparkle:edSignature="LSn/EQ52eKD9bIDouP9rHnyfRfjnvztAtNBI9V+XIj08XlNVFY9DpKFD7jjLE0doma6SPt0Ktc6YIZ45EzimAQ==" length="4937614" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1 (Build 56)</title>
       <pubDate>Mon, 23 Nov 2026 08:44:10 GMT</pubDate>
       <sparkle:version>56</sparkle:version>
