@@ -3,6 +3,15 @@
   <channel>
     <title>Wolf Terminal</title>
     <item>
+      <title>Version 1.1 (Build 74)</title>
+      <pubDate>Tue, 24 Nov 2026 10:44:29 GMT</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Namensschild: Fortschritt im selben, größeren Schild statt in einem zweiten Kästchen; „fertig“ bricht nicht mehr in zwei Zeilen um („fert-ig“)</li><li>Fortschritt der Agenten in %: Claude und Codex melden mit wolf fortschritt 40 &quot;Schritt&quot; (Anleitung automatisch in ~/.claude/CLAUDE.md und ~/.codex/AGENTS.md, Erlaubnis in ~/.claude/settings.json); Anzeige unter dem Namensschild, als Linie im Bereich, im Tab, im Rudel und beim Projekt; Ausweg über .wolf/fortschritt/ für Sandboxen</li><li>Programme laufen weiter, wenn Wolf Terminal endet (wie bei Herdr): Sitzungsdienst hält Shells, Claude, Codex &amp; Co.; nach Update, Neustart oder Absturz der App verbinden sich die Bereiche wieder (letzte Ausgabe wird eingespielt, ohne Klingel/Zwischenablage/Mitteilungen). Schließen eines Bereichs/Tabs beendet das Programm. Einstellung „Programme laufen weiter …“</li><li>Duo starten: kein Ordner mehr vorausgewählt – Menü „Projekt wählen …“ mit den Projekten aus „Meine Projekte“ oder „Anderer Ordner …“</li></ul>]]></description>
+      <enclosure url="https://github.com/Nasielpate/wolf-terminal-releases/releases/download/v1.1-74/WolfTerminal-1.1-74.zip" sparkle:edSignature="E5bSsKtqBUb5UlqgQ5oBwTY+qrIml2zCJE4/vD+YZHo+1T7r8G0s3ft558jPG1sCDNlUJYjq9KJ1nqaoRZdzDg==" length="5327524" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1 (Build 69)</title>
       <pubDate>Mon, 23 Nov 2026 18:26:31 GMT</pubDate>
       <sparkle:version>69</sparkle:version>
