@@ -3,6 +3,15 @@
   <channel>
     <title>Wolf Terminal</title>
     <item>
+      <title>Version 1.1 (Build 79)</title>
+      <pubDate>Tue, 24 Nov 2026 16:21:10 GMT</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Duo starten: „Was sollen sie tun?“ (Fehler suchen, Security-Audit, Voll-Audit, Fehler beheben, Architektur, Tests, Release-Prüfung, Dokumente prüfen/zusammenfassen/Fakten, Daten, Recherche, Zweitmeinung, Plan prüfen, eigener Auftrag) mit anpassbarem Vorgehen und passendem Ablauf; Auftrag links, Material rechts (Dateien als Kopie, Ordner, Links); Anzeige der installierten Skills</li><li>WOLF Quality Gate: Regelblock in ~/.claude/CLAUDE.md und ~/.codex/AGENTS.md (Einstellung, standardmäßig an)</li><li>Namensschild immer gleich groß (auch ohne Fortschritt) mit Symbol des Agenten; echte App-Symbole von Claude/ChatGPT, wenn installiert, sonst eigene</li><li>Seitenleiste mit der Maus breiter ziehen (gemerkt, Doppelklick = Standard)</li><li>Duo-Tab heißt nach dem Projekt („Duo: Wolf PDF“)</li><li>Duo starten: Projektwahl steht oben; Aufgabenfeld mit fester Höhe (große eingefügte Texte schoben die Projektwahl aus dem Bild, „Duo starten“ blieb stumm grau); Hinweis neben dem Knopf, was fehlt; Warnung bei sehr großen Aufgaben (Code-Review: Projekt wählen statt Code einfügen)</li><li>Fortschritt: hängende Agenten erkennen – gelb „wartet auf dich“ / „angehalten bei N %“ (Antwort beendet ohne 100 %), grau „seit N Min. unverändert“ (über 15 Min. keine Meldung); in Schild, Linie, Tab, Rudel und Projektliste</li></ul>]]></description>
+      <enclosure url="https://github.com/Nasielpate/wolf-terminal-releases/releases/download/v1.1-79/WolfTerminal-1.1-79.zip" sparkle:edSignature="91wIDp1vPbmV3TRu8mxWxFQHKseHq0gj1yRTcUP75NLu+xAm4TAALUz4HK3u8fNJOh+kqp7wX4NmM/sxObOSCA==" length="5419632" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1 (Build 74)</title>
       <pubDate>Tue, 24 Nov 2026 10:44:29 GMT</pubDate>
       <sparkle:version>74</sparkle:version>
