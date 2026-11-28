@@ -3,6 +3,15 @@
   <channel>
     <title>Lyrane Terminal</title>
     <item>
+      <title>Version 1.2 (Build 108)</title>
+      <pubDate>Sat, 28 Nov 2026 11:28:08 GMT</pubDate>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sauberes Bild nach Neustart/Update: Beim Wiederverbinden mit einer laufenden Sitzung setzt der Sitzungsdienst die Breite kurz (0,15 s) um eine Spalte anders und dann wieder richtig. So zeichnen Programme wie Claude Code den ganzen Bildschirm neu; Reste aus der gekürzten Wiedergabe (Striche, verrutschte Zeilen) bleiben nicht mehr stehen, bis man das Fenster verändert. Test testReattachForcesRealResize. Wirkt, sobald der Sitzungsdienst neu gestartet ist (keine offenen Sitzungen mehr oder Neustart des Mac).</li></ul>]]></description>
+      <enclosure url="https://github.com/Nasielpate/lyrane-terminal-releases/releases/download/v1.2-108/LyraneTerminal-1.2-108.zip" sparkle:edSignature="JtOh4q6YXBljUwZqH6ZdyHkpPhO5UbeddcIYETx31XkCki444MB/YBOIy9b/1+IAma2dkVk+UpK7VjiawO2TAw==" length="6758554" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2 (Build 106)</title>
       <pubDate>Sat, 28 Nov 2026 07:08:41 GMT</pubDate>
       <sparkle:version>106</sparkle:version>
